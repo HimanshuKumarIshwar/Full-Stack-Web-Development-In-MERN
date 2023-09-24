@@ -1,2 +1,4 @@
 # Full-Stack-Web-Development-In-MERN
-this is my wen development course using mern
+this is my web development course using mern
+<br>
+Author- Himanshu Kumar
