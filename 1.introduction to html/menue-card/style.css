@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.menu-card{
+    background-color: black;
+    padding-bottom: 4px;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 10px;
+    color: chartreuse;
+}
+.items-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 0px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+}
+h3{
+    color: rgba(28, 241, 4, 0.666); 
+}
+p{
+    color: aqua;
+}
+.rate-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 60px;
+    background-color:chartreuse;
+   margin-top: 0px;
+}
+.rate-section p{
+    color: aliceblue;
+}
+
+
+
